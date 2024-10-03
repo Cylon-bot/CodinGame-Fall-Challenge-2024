@@ -23,3 +23,7 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# My files
+*.jar
+codingame_file*
